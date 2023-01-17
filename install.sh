@@ -2,7 +2,7 @@
 
 pkg install imagemagick git nodejs ffmpeg libwebp mc nano yarn
 rm -rf node_modules 
-npm install
+yarn install
 rm -rf session.json 
 rm -rf store.json
 npm start
